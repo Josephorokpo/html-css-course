@@ -21,6 +21,9 @@ The course covered a wide array of topics, including:
 13. Nested Flexbox: Exploring nested Flexbox layouts.
 14. CSS Position: Understanding the position property in CSS.
 15. Position Absolute and Relative: Applying absolute and relative positioning for precise element placement.
+16. Responsive design implementation.
+17. CSS inheritance and CSS specificity.
+18. Semantic elements.
 
 This course equipped me with the necessary skills to create visually appealing and well-structured websites. It serves as an excellent starting point for anyone aspiring to become a proficient software engineer.
 
