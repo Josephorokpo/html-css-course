@@ -24,6 +24,7 @@ The course covered a wide array of topics, including:
 16. Responsive design implementation.
 17. CSS inheritance and CSS specificity.
 18. Semantic elements.
+19. Documentation.
 
 This course equipped me with the necessary skills to create visually appealing and well-structured websites. It serves as an excellent starting point for anyone aspiring to become a proficient software engineer.
 
